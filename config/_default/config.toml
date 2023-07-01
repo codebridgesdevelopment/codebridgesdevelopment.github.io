@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://codebridgesdevelopment.github.io/"
+baseURL = ""
 title = "Geeky | Hugo Personal Blog Template"
 theme = "geeky-hugo"
 languageName = "En"
